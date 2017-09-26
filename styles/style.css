@@ -8,3 +8,57 @@ h1 {
   margin-top: 100px;
   text-align: center;
 }
+
+.shout {
+	text-transform: uppercase;
+}
+
+.img-circle {
+	border-radius: 100%;
+	height: auto;
+	width: auto;
+}
+
+.img-thumbnail {
+	border-radius: 30px;
+	max-height: 400px;
+	max-width: 400px;
+	height: auto;
+	width: auto;
+}
+
+.success {
+	width: 800px;
+	display: inline-block;
+	text-align: center;
+	padding: 20px;
+	background-color: lightgreen;
+	border-radius: 30px;
+}
+
+.info {
+	display: inline-block;
+	width: 800px;
+	text-align: center;
+	background-color: lightblue;
+	border-radius: 30px;
+	padding: 20px;
+}
+
+.warning {
+	display: inline-block;
+	width: 800px;
+	text-align: center;
+	background-color: yellow;
+	border-radius: 30px;
+	padding: 20px;
+}
+
+.danger {
+	width: 800px;
+	display: inline-block;
+	text-align: center;
+	background-color: #C71616;
+	border-radius: 30px;
+	padding: 20px;
+}
